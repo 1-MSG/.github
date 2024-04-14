@@ -5,17 +5,17 @@
 
 ## 🌟서비스 소개
 
-![특가 페이지](https://github.com/1-MSG/backend/assets/81681883/d82e101d-6dd0-4188-b9b3-f4c8156c76b3)
+### ssg.com 클론 코딩 프로젝트 MSG 저장소 입니다.
 
+<figure class="half"> <img src="https://github.com/1-MSG/backend/assets/81681883/d82e101d-6dd0-4188-b9b3-f4c8156c76b3"> <img src="이미지경로"> </figure>
 
-- [sssg.com 바로가기](https://ssgcom-app.vercel.app/)
+- [배포 페이지 바로가기](https://ssgcom-app.vercel.app/)
 - 테스트 ID : msgid11
 - 테스트 PW : 1234
 
 ## 🏗️아키텍쳐
 
-
-![아키텍쳐]()
+![인프라 아키텍쳐](https://file.notion.so/f/f/495b0510-50aa-41fc-bf5b-523c9bc74476/2aa1ac86-4e26-404d-b5b5-2cd7fb951578/Untitled.png?id=9b421e3c-522d-4d2e-9c36-a7cac2175e41&table=block&spaceId=495b0510-50aa-41fc-bf5b-523c9bc74476&expirationTimestamp=1713189600000&signature=gjKsAUv1Ros_VWjlYryMcgGvGP6Erg7OPNG21x-r9JA&downloadName=Untitled.png)
 
 
 <br>
