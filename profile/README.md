@@ -7,7 +7,7 @@
 
 ### ssg.com 클론 코딩 프로젝트 MSG 저장소 입니다.
 
-<figure class="half"> <img src="https://github.com/1-MSG/backend/assets/81681883/d82e101d-6dd0-4188-b9b3-f4c8156c76b3"> <img src="이미지경로"> </figure>
+<figure class="half"> <img src="https://github.com/1-MSG/backend/assets/81681883/d82e101d-6dd0-4188-b9b3-f4c8156c76b3"> <img src="https://github.com/1-MSG/backend/assets/81681883/6241ca34-b223-469b-85bd-5a0fac7202b8"> </figure>
 
 - [배포 페이지 바로가기](https://ssgcom-app.vercel.app/)
 - 테스트 ID : msgid11
