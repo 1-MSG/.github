@@ -31,7 +31,7 @@
 
 ## 🏗️아키텍쳐
 
-![인프라 아키텍쳐](https://file.notion.so/f/f/495b0510-50aa-41fc-bf5b-523c9bc74476/2aa1ac86-4e26-404d-b5b5-2cd7fb951578/Untitled.png?id=9b421e3c-522d-4d2e-9c36-a7cac2175e41&table=block&spaceId=495b0510-50aa-41fc-bf5b-523c9bc74476&expirationTimestamp=1713189600000&signature=gjKsAUv1Ros_VWjlYryMcgGvGP6Erg7OPNG21x-r9JA&downloadName=Untitled.png)
+![인프라 아키텍쳐](https://github.com/1-MSG/backend/assets/81681883/19e22a99-72c6-4ff5-a66d-ca60926915b7)
 
 
 <br>
