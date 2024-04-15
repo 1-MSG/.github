@@ -1,7 +1,7 @@
 ![](https://github.com/1-MSG/backend/assets/81681883/1bbbc0a8-33e7-4a0b-a3d2-75fcc9b18ce0)
 #  ssg.com 클론 코딩 프로젝트 MSG 저장소
 
-<figure class="half"> <img src="https://github.com/1-MSG/backend/assets/81681883/939c6f0b-7488-4101-bfed-eb0fcb8837ef"> <img src="https://github.com/1-MSG/backend/assets/81681883/c7d9783f-250d-47e6-9adc-54cc7ce55e9a"> </figure>
+<figure class="half"> <img src="https://github.com/1-MSG/backend/assets/81681883/c7d9783f-250d-47e6-9adc-54cc7ce55e9a"> <img src="https://github.com/1-MSG/backend/assets/81681883/939c6f0b-7488-4101-bfed-eb0fcb8837ef"></figure>
 
 - [페이지 바로가기](https://ssgcom-app.vercel.app/)
 - 테스트 ID : msgid11
@@ -17,13 +17,17 @@
 ## 🌟서비스 소개
 
 ### 개발 목적
+- E-Commerce 사이트의 DB구조를 설계 해보며 효율적인 데이터 처리를 위한 방법 탐구
+
 ### 개발 기간
-2024.02.23 ~ 2024.4.17
+- 2024.02.23 ~ 2024.4.17
 ### 주요 기능
 - 소셜 로그인, 이메일 인증
 - 상품 검색
 - 상품 로딩 무한 스크롤
 - 상품 찜, 장바구니 담기
+- Admin : 상품 판매량/유저 집계
+### 시연 영상
 
 ## 🏗️아키텍쳐
 
@@ -63,15 +67,15 @@
 ## 👥팀원 구성
 |     Role     |                                                        Github                                                         |        Contact        |
 | :--------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------: |
-| BackEnd | [<img src="https://avatars.githubusercontent.com/u/160799011?v=4" width="19" />](https://github.com/KangBaekGwa) [@KangBaekGwa](https://github.com/KangBaekGwa) |   ksu9801@gmail.com   |
-| BackEnd | [<img src="https://avatars.githubusercontent.com/u/53307093?v=4" width="19" />](https://github.com/howudong) [@howudong](https://github.com/howudong)|   @gmail.com   |
-| BackEnd | [<img src="https://avatars.githubusercontent.com/u/122415843?v=4" width="19" />](https://github.com/I-HYEON) [@I-HYEON](https://github.com/I-HYEON)|   @gmail.com   |
-|  BackEnd |  [<img src="https://avatars.githubusercontent.com/u/81681883?v=4" width="19" />](https://github.com/khanturtle)  [@khanturtle](https://github.com/khanturtle) | chojunho9803@gmail.com |
-| FrontEnd | [<img src="https://avatars.githubusercontent.com/u/87313979?v=4" width="19" />](https://github.com/YOON-CC) [@YOON-CC](https://github.com/YOON-CC)|  @gmail.com  |
-|  FrontEnd |  [<img src="https://avatars.githubusercontent.com/u/67429918?v=4" width="19" />](https://github.com/yunii23) [@yunii23](https://github.com/yunii23) |   @gmail.com   |
+| BackEnd | [<img src="https://avatars.githubusercontent.com/u/160799011?v=4" width="19" />](https://github.com/KangBaekGwa) [@KangBaekGwa](https://github.com/KangBaekGwa) | ksu9801@gmail.com |
+| BackEnd | [<img src="https://avatars.githubusercontent.com/u/53307093?v=4" width="19" />](https://github.com/howudong) [@howudong](https://github.com/howudong)| @gmail.com |
+| BackEnd | [<img src="https://avatars.githubusercontent.com/u/122415843?v=4" width="19" />](https://github.com/I-HYEON) [@I-HYEON](https://github.com/I-HYEON)| @gmail.com |
+| BackEnd | [<img src="https://avatars.githubusercontent.com/u/81681883?v=4" width="19" />](https://github.com/khanturtle)  [@khanturtle](https://github.com/khanturtle) | chojunho9803@gmail.com |
+| FrontEnd | [<img src="https://avatars.githubusercontent.com/u/87313979?v=4" width="19" />](https://github.com/YOON-CC) [@YOON-CC](https://github.com/YOON-CC)| @gmail.com |
+| FrontEnd | [<img src="https://avatars.githubusercontent.com/u/67429918?v=4" width="19" />](https://github.com/yunii23) [@yunii23](https://github.com/yunii23) | @gmail.com |
 
 
-## 프로젝트 후기
+## 📚프로젝트 후기
 ### 강성욱
 ### 서이현
 ### 조준호
@@ -80,5 +84,4 @@
 ### 홍준표
 
 ## 📖Github Wiki
-
 - [Github Wiki](https://github.com/1-MSG/backend/wiki)
