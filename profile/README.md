@@ -1,17 +1,29 @@
-## 📖Github Wiki
-
-- [Github Wiki](https://github.com/1-MSG/backend/wiki)
-<br>
-
-## 🌟서비스 소개
-
-### ssg.com 클론 코딩 프로젝트 MSG 저장소 입니다.
+![](https://github.com/1-MSG/backend/assets/81681883/1bbbc0a8-33e7-4a0b-a3d2-75fcc9b18ce0)
+#  ssg.com 클론 코딩 프로젝트 MSG 저장소
 
 <figure class="half"> <img src="https://github.com/1-MSG/backend/assets/81681883/939c6f0b-7488-4101-bfed-eb0fcb8837ef"> <img src="https://github.com/1-MSG/backend/assets/81681883/c7d9783f-250d-47e6-9adc-54cc7ce55e9a"> </figure>
 
-- [배포 페이지 바로가기](https://ssgcom-app.vercel.app/)
+- [페이지 바로가기](https://ssgcom-app.vercel.app/)
 - 테스트 ID : msgid11
 - 테스트 PW : 1234
+## 목차
+1. [서비스 소개](#서비스-소개)
+2. [아키텍쳐](#%EF%B8%8F아키텍쳐)
+3. [ERD](#erd)
+4. [기술 스택](#-기술-스택)
+5. [팀원 구성](#팀원-구성)
+6. [프로젝트 후기](#프로젝트-후기)
+7. [GithubWiki](#github-wiki)
+## 🌟서비스 소개
+
+### 개발 목적
+### 개발 기간
+2024.02.23 ~ 2024.4.17
+### 주요 기능
+- 소셜 로그인, 이메일 인증
+- 상품 검색
+- 상품 로딩 무한 스크롤
+- 상품 찜, 장바구니 담기
 
 ## 🏗️아키텍쳐
 
@@ -48,7 +60,7 @@
 
 <br>
 
-## 👥Contributors
+## 👥팀원 구성
 |     Role     |                                                        Github                                                         |        Contact        |
 | :--------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------: |
 | BackEnd | [<img src="https://avatars.githubusercontent.com/u/160799011?v=4" width="19" />](https://github.com/KangBaekGwa) [@KangBaekGwa](https://github.com/KangBaekGwa) |   ksu9801@gmail.com   |
@@ -57,3 +69,16 @@
 |  BackEnd |  [<img src="https://avatars.githubusercontent.com/u/81681883?v=4" width="19" />](https://github.com/khanturtle)  [@khanturtle](https://github.com/khanturtle) | chojunho9803@gmail.com |
 | FrontEnd | [<img src="https://avatars.githubusercontent.com/u/87313979?v=4" width="19" />](https://github.com/YOON-CC) [@YOON-CC](https://github.com/YOON-CC)|  @gmail.com  |
 |  FrontEnd |  [<img src="https://avatars.githubusercontent.com/u/67429918?v=4" width="19" />](https://github.com/yunii23) [@yunii23](https://github.com/yunii23) |   @gmail.com   |
+
+
+## 프로젝트 후기
+### 강성욱
+### 서이현
+### 조준호
+### 조윤찬
+### 최형문
+### 홍준표
+
+## 📖Github Wiki
+
+- [Github Wiki](https://github.com/1-MSG/backend/wiki)
