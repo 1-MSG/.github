@@ -80,7 +80,7 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 | ![트러블_슈팅](https://github.com/1-MSG/backend/assets/122415843/4c66bdf8-cce8-4ad8-8a97-9c0282b38dc9) |
 
 ### 👥팀원 소개
-|    [<img src="https://avatars.githubusercontent.com/u/160799011?v=4" width="19" />]    |   [<img src="https://avatars.githubusercontent.com/u/122415843?v=4" width="19" />]   |   [<img src="https://avatars.githubusercontent.com/u/81681883?v=4" width="19" />]    |
+|    <img src="https://avatars.githubusercontent.com/u/160799011?v=4" width="40" />    |   img src="https://avatars.githubusercontent.com/u/122415843?v=4" width="40" />   |   <img src="https://avatars.githubusercontent.com/u/81681883?v=4" width="40" />    |
 | :----: | :----: | :----: |
 | 강성욱 | 서이현 | 조준호 |
 | BackEnd| BackEnd| BackEnd|
