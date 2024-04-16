@@ -23,25 +23,23 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
   - ID : welcome / thankyou
   - PW : 1234
 
-- 소셜 로그인, 이메일 인증
-- 상품 검색
-- 상품 로딩 무한 스크롤
-- 상품 찜, 장바구니 담기
-- Admin : 상품 판매량/유저 집계
+### 1. 소셜 로그인
+### 2. 키워드로 상품 검색
+### 3. 상품 무한 스크롤 조회
+### 4. 상품 좋아요, 장바구니 담기
+### 5. 관리자 상품 판매량/사용자 관리
 
-### 시연 영상
+## 📜산출물
 
-### 🏗️아키텍쳐
+### 아키텍처 구조도
 
-![인프라 아키텍쳐](https://github.com/1-MSG/backend/assets/81681883/19e22a99-72c6-4ff5-a66d-ca60926915b7)
+<img src="https://github.com/1-MSG/backend/assets/81681883/19e22a99-72c6-4ff5-a66d-ca60926915b7" width="500">
 
-<br>
-
-### 🧭ERD
+### 🖇ERD
 
 ![MSG-ERD](https://github.com/1-MSG/backend/assets/81681883/e65a5b2d-7a61-4bec-94d4-bc35265710d8)
-<br>
-### 🍀 기술 스택
+
+### 🛠 기술 스택
 
 - **Backend**
 
@@ -65,7 +63,10 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 
 <br>
 
+
 ## **협업 관리**
+[Github Wiki 바로가기](https://github.com/1-MSG/backend/wiki)
+
 그라운드룰 | 노션 기반 진행상황 공유 |
 --- | --- | 
 ![그라운드룰](https://github.com/1-MSG/backend/assets/122415843/b3010e34-dd6b-4c25-82ba-758b62a113f3)| ![노션_기반_진행상황_공유](https://github.com/1-MSG/backend/assets/122415843/8bc0838a-bc2e-41bc-95b0-fcc965302ac0) |
@@ -84,18 +85,14 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 | :----: | :----: | :----: |
 | 강성욱 | 서이현 | 조준호 |
 | BackEnd| BackEnd| BackEnd|
-|tjwn1408@naver.com  |tjwn1408@naver.com  |tjwn1408@naver.com  |
+|ksu9801@gmail.com  |tjwn1408@naver.com  |chojunho9803@gmail.com  |
 | [@KangBaekGwa](https://github.com/KangBaekGwa)| [@I-HYEON](https://github.com/I-HYEON) | [@khanturtle](https://github.com/khanturtle)  |
+소감 및 후기 | 소감 및 후기 | 소감 및 후기 |
 
-
-
-### 📚프로젝트 후기
-### 강성욱
-### 서이현
-### 조준호
-### 조윤찬
-### 최형문
-### 홍준표
-
-## 📖Github Wiki
-- [Github Wiki](https://github.com/1-MSG/backend/wiki)
+|    <img src="https://avatars.githubusercontent.com/u/160799011?v=4" width="40" />    |   <img src="https://avatars.githubusercontent.com/u/122415843?v=4" width="40" />   |   <img src="https://avatars.githubusercontent.com/u/81681883?v=4" width="40" />    |
+| :----: | :----: | :----: |
+| 조윤찬 | 최형문 | 홍준표 |
+| FontEnd| FrontEnd| BackEnd|
+|whdbscks77@gmail.com  |munii1023@gmail.com |tjdvy17539@gmail.com  |
+| [@KangBaekGwa](https://github.com/KangBaekGwa)| [@I-HYEON](https://github.com/I-HYEON) | [@khanturtle](https://github.com/khanturtle)  |
+소감 및 후기 | 소감 및 후기 | 소감 및 후기 |
