@@ -18,9 +18,8 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 
 ### 🎇서비스 화면 및 기능소개
 
-![특가캡](https://github.com/1-MSG/.github/assets/122415843/fb641a6c-6745-48f8-8e06-30146b4e10e2) | ![어드민2](https://github.com/1-MSG/.github/assets/122415843/e8eee7f5-e347-451e-a22b-7f2e237ead9c) |
----| --- |
-[쇼핑몰 사이트 바로가기](https://ssgcom-app.vercel.app/) | [관리자 사이트 바로가기](https://admin.sssg.shop/) |
+<p align="center"><img src="[image_src](https://github.com/1-MSG/.github/assets/122415843/e90b8ec9-37dc-4cc9-8a30-1324ee67b7a7)"></p>
+<p align="center">[쇼핑몰 사이트 바로가기](https://ssgcom-app.vercel.app/)  |  [관리자 사이트 바로가기](https://admin.sssg.shop/)</p>
 - 아래 테스트용 계정을 사용해 쇼핑몰의 모든 기능을 사용해볼 수 있습니다.
   - ID : welcome / thankyou
   - PW : 1234
