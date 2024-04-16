@@ -32,34 +32,27 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
   - PW : 1234
 
 ### 1. 회원관리 기능(회원가입/로그인)
+![로그인gif](https://github.com/1-MSG/.github/assets/122415843/29cee163-130a-4f65-89f0-04e275b0f06f) | ![로그인gif](https://github.com/1-MSG/.github/assets/122415843/29cee163-130a-4f65-89f0-04e275b0f06f) |
+--- | --- | 
+간편/통합 회원가입| 통합 로그인 과정 |
 ### 2. 키워드로 상품 검색
+![검색gif](https://github.com/1-MSG/.github/assets/122415843/60e0feba-1962-4953-961f-1fed34bf8547) | ![구매직전gif](https://github.com/1-MSG/.github/assets/122415843/34a0c755-3289-4448-8005-605d6e820256) |
+--- | --- | 
+상품 검색 및 조회 | 구매 직전 페이지 |
 ### 3. 상품 무한 스크롤 조회
+![무한스크롤gif](https://github.com/1-MSG/.github/assets/122415843/901759e9-df96-4ef9-8141-286395b160a9) | ![카테고리별조회gif](https://github.com/1-MSG/.github/assets/122415843/96b9a7bd-31fa-43f7-96d9-f175680e854a) |
+--- | --- | 
+무한스크롤 통한 조회 | 카테고리별 조회 |
 ### 4. 상품 좋아요, 장바구니 담기
+![좋아요gif](https://github.com/1-MSG/.github/assets/122415843/b0744ef1-8cf7-495d-b44f-633621beff74)| ![장바구니gif](https://github.com/1-MSG/.github/assets/122415843/92d616ff-bfb9-422c-9fa5-8e36c4b60215) |
+--- | --- |
+상품별 좋아요 | 옵션선택 후 장바구니 담기 |
 ### 5. 관리자 상품 판매량/사용자 관리
+![어드민1](https://github.com/1-MSG/.github/assets/122415843/00e8e3f1-af43-4806-aa00-3401c6056405) | ![어드민2](https://github.com/1-MSG/.github/assets/122415843/5d45335f-407f-4c08-a4ad-71b7f8dbcbaf) |
+--- | --- | 
+전체 매출 관리/응답속도 탭| 상품 데이터 관리 탭|
 
-### 🛠 기술 스택
-
-- **Backend**
-
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-F05032?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/QueryDSL-81717?style=for-the-badge&logo=QueryDSL&logoColor=white"> <img src="https://img.shields.io/badge/ApacheJmeter-D22128?style=for-the-badge&logo=ApacheJmeter&logoColor=white">
-
-- **Frontend**
-
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/ReactQuery-61DAFB?style=for-the-badge&logo=ReactQuery&logoColor=white">  <img src="https://img.shields.io/badge/NextAuth-339933?style=for-the-badge&logo=NextAuth&logoColor=white"> <img src="https://img.shields.io/badge/vercel-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/swr-007ACC?style=for-the-badge&logo=swr&logoColor=white"> <img src="https://img.shields.io/badge/chart JS-007ACC?style=for-the-badge&logo=chart JS&logoColor=white">
-
-- **DB**
-  
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-3178C6?style=for-the-badge&logo=MongoDB&logoColor=white">
-
-- **Infra**
-
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/awselasticloadbalancing-6DB33F?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white">
-
-- **Docs**
-
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
-
-<br>
+## 🛠 기술 스택
 
 ## 📜산출물
 
@@ -71,6 +64,92 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 
 ![MSG-ERD](https://github.com/1-MSG/backend/assets/81681883/e65a5b2d-7a61-4bec-94d4-bc35265710d8)
 
+### 폴더구조
+Back
+```
+📦src
+ ┣ 📂main
+ ┃ ┣ 📂java
+ ┃ ┃ ┗ 📂spharos
+ ┃ ┃ ┃ ┗ 📂msg
+ ┃ ┃ ┃ ┃ ┣ 📂domain
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂admin
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂controller
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂converter
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂dto
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂entity
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂repository
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂service
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂Impl
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂brand
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂bundle
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂cart
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂category
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂coupon
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂likes
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂options
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂orders
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂product
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂review
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂search
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂controller
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂dto
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂entity
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂repository
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂impl
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂service
+ ┃ ┃ ┃ ┃ ┃ ┃ ┗ 📂utils
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂users
+ ┃ ┃ ┃ ┃ ┣ 📂global
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂api
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂code
+ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂status
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂dto
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂example
+ ┃ ┃ ┃ ┃ ┃ ┃ ┣ 📂exception
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂config
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂converter
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂database
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂entity
+ ┃ ┃ ┃ ┃ ┃ ┣ 📂redis
+ ┃ ┃ ┃ ┃ ┃ ┗ 📂security
+ ┃ ┃ ┃ ┃ ┗ 📜MsgApplication.java
+ ┃ ┗ 📂resources
+ ┗ 📂test
+
+```
+Front
+```
+📦components
+ ┣ 📂banner
+ ┣ 📂form
+ ┣ 📂layout
+ ┣ 📂MainCategory
+ ┣ 📂pages
+ ┃ ┣ 📂auth
+ ┃ ┃ ┣ 📂signup
+ ┃ ┃ ┗ 📂users
+ ┃ ┣ 📂cart
+ ┃ ┣ 📂category
+ ┃ ┣ 📂catogory-list
+ ┃ ┣ 📂join
+ ┃ ┣ 📂like
+ ┃ ┣ 📂login
+ ┃ ┣ 📂main
+ ┃ ┣ 📂nonuser
+ ┃ ┣ 📂order
+ ┃ ┃ ┣ 📂order-complete
+ ┃ ┃ ┗ 📂product-order
+ ┃ ┣ 📂product-detail
+ ┃ ┣ 📂product-list
+ ┃ ┃ ┣ 📂ranking
+ ┃ ┃ ┣ 📂special-price
+ ┃ ┣ 📂product-review
+ ┃ ┣ 📂search
+ ┃ ┗ 📂users
+ ┃ ┃ ┗ 📂my-order
+ ┗ 📂ui
+```
 
 ### ✒깃허브 위키
 [Github Wiki 바로가기](https://github.com/1-MSG/backend/wiki)
