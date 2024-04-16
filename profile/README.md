@@ -1,5 +1,3 @@
-
-https://github.com/1-MSG/.github/assets/122415843/f28221d0-115e-4422-8135-b1dbb0763334
 # SSG 클론코딩 - 쇼핑몰 사이트와 관리자 사이트(README.md)
 
 ### 🗓️ 프로젝트 일정
