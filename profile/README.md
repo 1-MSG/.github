@@ -79,7 +79,12 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 ![코드리뷰](https://github.com/1-MSG/backend/assets/122415843/0a58c39f-46b7-4e03-b7ef-aa9f1a418141)
 | ![트러블_슈팅](https://github.com/1-MSG/backend/assets/122415843/4c66bdf8-cce8-4ad8-8a97-9c0282b38dc9) |
 
-### 👥팀원 구성
+### 👥팀원 소개
+|             |     강성욱     |     서이현     |     조준호     |
+| :--------: | :--------: | :--------: |
+| Role | BackEnd | BackEnd | BackEnd |
+
+
 |     Role     |                                                        Github                                                         |        Contact        |
 | :--------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------: |
 | BackEnd | [<img src="https://avatars.githubusercontent.com/u/160799011?v=4" width="19" />](https://github.com/KangBaekGwa) [@KangBaekGwa](https://github.com/KangBaekGwa) | ksu9801@gmail.com |
