@@ -76,7 +76,7 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 
 코드리뷰 | 트러블 슈팅 |
 --- | --- | 
-![코드리뷰](https://github.com/1-MSG/backend/assets/122415843/0a58c39f-46b7-4e03-b7ef-aa9f1a418141)
+<img src="https://github.com/1-MSG/backend/assets/122415843/b3010e34-dd6b-4c25-82ba-758b62a113f3" width="100" height="100">
 | ![트러블_슈팅](https://github.com/1-MSG/backend/assets/122415843/4c66bdf8-cce8-4ad8-8a97-9c0282b38dc9) |
 
 ### 👥팀원 소개
