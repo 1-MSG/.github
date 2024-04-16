@@ -75,9 +75,9 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 ![데일리_스크럼_및_회고](https://github.com/1-MSG/backend/assets/122415843/5c3c2f6a-9ab8-4015-9768-e216cfffd9a4)| !![Gitflow_전략_및_통일된_커밋_메시지](https://github.com/1-MSG/backend/assets/122415843/6fc761ce-7ebd-47ba-8110-b6bd64dcd4cf) |
 
 코드리뷰 | 트러블 슈팅 |
---- | --- | 
-<img src="https://github.com/1-MSG/backend/assets/122415843/fdabc1c9-28ee-4e7d-abbc-d3237126b8ea" width="350" height="200">
-| <img src="https://github.com/1-MSG/backend/assets/122415843/4c66bdf8-cce8-4ad8-8a97-9c0282b38dc9" width="350"> |
+--- | --- |
+![코드리뷰](https://github.com/1-MSG/.github/assets/122415843/dde2650b-ba16-40bc-ac82-95ffe0bf1e48) | ![트러블슈팅](https://github.com/1-MSG/.github/assets/122415843/cdee45e3-9f06-49ee-8c71-56791888bfbd) |
+
 
 ### 👥팀원 소개
 |    <img src="https://avatars.githubusercontent.com/u/160799011?v=4" width="40" />    |   <img src="https://avatars.githubusercontent.com/u/122415843?v=4" width="40" />   |   <img src="https://avatars.githubusercontent.com/u/81681883?v=4" width="40" />    |
@@ -86,6 +86,7 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 | BackEnd| BackEnd| BackEnd|
 |tjwn1408@naver.com  |tjwn1408@naver.com  |tjwn1408@naver.com  |
 | [@KangBaekGwa](https://github.com/KangBaekGwa)| [@I-HYEON](https://github.com/I-HYEON) | [@khanturtle](https://github.com/khanturtle)  |
+
 
 
 ### 📚프로젝트 후기
