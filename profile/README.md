@@ -4,7 +4,7 @@
 <figure class="half"> <img src="https://github.com/1-MSG/backend/assets/81681883/c7d9783f-250d-47e6-9adc-54cc7ce55e9a"> <img src="https://github.com/1-MSG/backend/assets/81681883/939c6f0b-7488-4101-bfed-eb0fcb8837ef"></figure>
 
 - [페이지 바로가기](https://ssgcom-app.vercel.app/)
-- 테스트 ID : msgid11
+- 테스트 ID : welcome / thankyou
 - 테스트 PW : 1234
 ## 목차
 1. [서비스 소개](#서비스-소개)
