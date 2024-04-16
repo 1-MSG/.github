@@ -18,11 +18,11 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 ## 🎇서비스 화면 및 기능소개
 
 - [쇼핑몰 사이트 바로가기](https://ssgcom-app.vercel.app/)
+- [관리자 사이트 바로가기](https://admin.sssg.shop/)
 - 아래 테스트용 계정을 사용해 쇼핑몰의 모든 기능을 사용해볼 수 있습니다.
-- ID : welcome / thankyou
-- PW : 1234
+  - ID : welcome / thankyou
+  - PW : 1234
 
-### 주요 기능
 - 소셜 로그인, 이메일 인증
 - 상품 검색
 - 상품 로딩 무한 스크롤
@@ -64,6 +64,20 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
 
 <br>
+
+## **협업 관리**
+그라운드룰 | 노션 기반 진행상황 공유 |
+--- | --- | 
+![그라운드룰](https://github.com/1-MSG/backend/assets/122415843/b3010e34-dd6b-4c25-82ba-758b62a113f3)| ![노션_기반_진행상황_공유](https://github.com/1-MSG/backend/assets/122415843/8bc0838a-bc2e-41bc-95b0-fcc965302ac0) |
+
+데일리 스크럼 및 회고 | Gitflow 전략 및 통일된 커밋 메시지 |
+--- | --- | 
+![데일리_스크럼_및_회고](https://github.com/1-MSG/backend/assets/122415843/5c3c2f6a-9ab8-4015-9768-e216cfffd9a4)| !![Gitflow_전략_및_통일된_커밋_메시지](https://github.com/1-MSG/backend/assets/122415843/6fc761ce-7ebd-47ba-8110-b6bd64dcd4cf) |
+
+코드리뷰 | 트러블 슈팅 |
+--- | --- | 
+![코드리뷰](https://github.com/1-MSG/backend/assets/122415843/0a58c39f-46b7-4e03-b7ef-aa9f1a418141)
+| ![트러블_슈팅](https://github.com/1-MSG/backend/assets/122415843/4c66bdf8-cce8-4ad8-8a97-9c0282b38dc9) |
 
 ### 👥팀원 구성
 |     Role     |                                                        Github                                                         |        Contact        |
