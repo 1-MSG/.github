@@ -1,29 +1,30 @@
 # SSG 클론코딩 - 쇼핑몰 사이트와 관리자 사이트(README.md)
 
-### 🗓️ 프로젝트 일정
+<p align="center"><img src="https://github.com/1-MSG/.github/assets/122415843/e90b8ec9-37dc-4cc9-8a30-1324ee67b7a7" width="300"></p>
 
+### 🗓️ 프로젝트 일정
+---
 - 일정: 2024년 2월 23일 - 2023년 4월 17일 (6주)
 
 ### 👩‍👧‍👦프로젝트 목표
-
+---
 **"SSG 클론 코딩과 실시간 데이터 관리 플랫폼"**
 
 SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클론 코딩 작업과 함께, 상품 데이터, 총 매출액, 판매 수량 등 **중요 비즈니스 지표를 실시간으로 모니터링하고 관리**할 수 있는 관리자(ADMIN) 사이트 개발을 목표로 합니다.
 
 특히, 저희 팀은 사용자 경험을 최적화하기 위해 프론트엔드와 백엔드 모두 개발 과정에서 성능 최적화에 많은 노력을 기울였습니다. 로딩 시간 단축, 서버 응답 속도 향상, 그리고 효율적인 데이터 처리 방식의 적용을 통해, 사용자는 **더욱 빠르고 부드러운 상호작용**을 경험할 수 있습니다.
 
-### 🔎 서비스 개요
+### 🔎 서비스 소개
+---
+<p align="center"><img src="https://github.com/1-MSG/.github/assets/122415843/dfa1d75f-c8f5-4657-be5f-98ac04b71985" width="300"></p>
+<p align="center">쇼핑몰 바로가기↗️(https://ssgcom-app.vercel.app/)  |  관리자 사이트 바로가기↗️(https://admin.sssg.shop/)</p>
+※ 아래 테스트용 계정을 사용해 쇼핑몰의 모든 기능을 사용해볼 수 있습니다.
+- ID : welcome 혹은 thankyou  - PW : 1234
 
 사용자는 클론 코딩된 쇼핑몰을 통해 **실제 쇼핑몰과 유사한 쇼핑 경험**을 할 수 있고, 개발된 관리자 사이트를 통해 **고객 관리, 매출 관리, 재고 관리** 등의 다양한 관리 작업을 수행할 수 있습니다.
 
 ### 🎇서비스 화면 및 기능소개
-
-<p align="center"><img src="https://github.com/1-MSG/.github/assets/122415843/e90b8ec9-37dc-4cc9-8a30-1324ee67b7a7"></p>
-<p align="center">[쇼핑몰 사이트 바로가기](https://ssgcom-app.vercel.app/)  |  [관리자 사이트 바로가기](https://admin.sssg.shop/)</p>
-- 아래 테스트용 계정을 사용해 쇼핑몰의 모든 기능을 사용해볼 수 있습니다.
-  - ID : welcome / thankyou
-  - PW : 1234
-
+---
 **1. 회원관리 기능(회원가입/로그인)**
 ![로그인gif](https://github.com/1-MSG/.github/assets/122415843/29cee163-130a-4f65-89f0-04e275b0f06f) | ![로그인gif](https://github.com/1-MSG/.github/assets/122415843/29cee163-130a-4f65-89f0-04e275b0f06f) |
 --- | --- |
@@ -50,7 +51,7 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 전체 매출 관리/응답속도 탭| 상품 데이터 관리 탭|
 
 ### 🛠 기술 스택
-
+---
 - **Backend**
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-F05032?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/QueryDSL-81717?style=for-the-badge&logo=QueryDSL&logoColor=white"> <img src="https://img.shields.io/badge/ApacheJmeter-D22128?style=for-the-badge&logo=ApacheJmeter&logoColor=white">
@@ -72,7 +73,7 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
 
 ### 📜산출물
-
+---
 **🖋️아키텍처 구조도**
 
 <img src="https://github.com/1-MSG/backend/assets/81681883/19e22a99-72c6-4ff5-a66d-ca60926915b7" width="500">
@@ -186,6 +187,7 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 
 
 ### 👥팀원 소개
+---
 |    <img src="https://avatars.githubusercontent.com/u/160799011?v=4" width="40" />    |   <img src="https://avatars.githubusercontent.com/u/122415843?v=4" width="40" />   |   <img src="https://avatars.githubusercontent.com/u/81681883?v=4" width="40" />    |
 | :----: | :----: | :----: |
 | 강성욱 | 서이현 | 조준호 |
