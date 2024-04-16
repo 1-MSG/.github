@@ -80,19 +80,12 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 | ![트러블_슈팅](https://github.com/1-MSG/backend/assets/122415843/4c66bdf8-cce8-4ad8-8a97-9c0282b38dc9) |
 
 ### 👥팀원 소개
-|             |     강성욱     |     서이현     |     조준호     |
-| :--------: | :--------: | :--------: |
-| Role | BackEnd | BackEnd | BackEnd |
-
-
-|     Role     |                                                        Github                                                         |        Contact        |
-| :--------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------: |
-| BackEnd | [<img src="https://avatars.githubusercontent.com/u/160799011?v=4" width="19" />](https://github.com/KangBaekGwa) [@KangBaekGwa](https://github.com/KangBaekGwa) | ksu9801@gmail.com |
-| BackEnd | [<img src="https://avatars.githubusercontent.com/u/53307093?v=4" width="19" />](https://github.com/howudong) [@howudong](https://github.com/howudong)| @gmail.com |
-| BackEnd | [<img src="https://avatars.githubusercontent.com/u/122415843?v=4" width="19" />](https://github.com/I-HYEON) [@I-HYEON](https://github.com/I-HYEON)| @gmail.com |
-| BackEnd | [<img src="https://avatars.githubusercontent.com/u/81681883?v=4" width="19" />](https://github.com/khanturtle)  [@khanturtle](https://github.com/khanturtle) | chojunho9803@gmail.com |
-| FrontEnd | [<img src="https://avatars.githubusercontent.com/u/87313979?v=4" width="19" />](https://github.com/YOON-CC) [@YOON-CC](https://github.com/YOON-CC)| @gmail.com |
-| FrontEnd | [<img src="https://avatars.githubusercontent.com/u/67429918?v=4" width="19" />](https://github.com/yunii23) [@yunii23](https://github.com/yunii23) | @gmail.com |
+|    [<img src="https://avatars.githubusercontent.com/u/160799011?v=4" width="19" />]    |   [<img src="https://avatars.githubusercontent.com/u/122415843?v=4" width="19" />]   |   [<img src="https://avatars.githubusercontent.com/u/81681883?v=4" width="19" />]    |
+| :----: | :----: | :----: |
+| 강성욱 | 서이현 | 조준호 |
+| BackEnd| BackEnd| BackEnd|
+|tjwn1408@naver.com  |tjwn1408@naver.com  |tjwn1408@naver.com  |
+| [@KangBaekGwa](https://github.com/KangBaekGwa)| [@I-HYEON](https://github.com/I-HYEON) | [@khanturtle](https://github.com/khanturtle)  |
 
 
 ### 📚프로젝트 후기
