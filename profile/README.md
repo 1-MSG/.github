@@ -23,7 +23,7 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 ---
 <p align="center"><img src="https://github.com/1-MSG/.github/assets/122415843/dfa1d75f-c8f5-4657-be5f-98ac04b71985" width="300"></p>
 <p align="center">쇼핑몰 바로가기↗️(https://ssgcom-app.vercel.app/)  |  관리자 사이트 바로가기↗️(https://admin.sssg.shop/)</p>
-※ 테스트용 계정을 사용해 쇼핑몰의 모든 기능을 사용해볼 수 있습니다. **- ID : welcome 혹은 thankyou / - PW : 1234**
+※ 테스트용 계정을 사용해 쇼핑몰의 모든 기능을 사용해볼 수 있습니다. 👉ID : welcome 혹은 thankyou 👉PW : 1234**
 
 <br>
 <br>
