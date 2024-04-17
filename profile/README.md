@@ -186,7 +186,7 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 
 데일리 스크럼 및 회고 | Gitflow 전략 및 통일된 커밋 메시지 |
 --- | --- | 
-![데일리_스크럼_및_회고](https://github.com/1-MSG/backend/assets/122415843/5c3c2f6a-9ab8-4015-9768-e216cfffd9a4)| !![Gitflow_전략_및_통일된_커밋_메시지](https://github.com/1-MSG/backend/assets/122415843/6fc761ce-7ebd-47ba-8110-b6bd64dcd4cf) |
+![데일리_스크럼_및_회고](https://github.com/1-MSG/backend/assets/122415843/5c3c2f6a-9ab8-4015-9768-e216cfffd9a4)| ![Gitflow_전략_및_통일된_커밋_메시지](https://github.com/1-MSG/backend/assets/122415843/6fc761ce-7ebd-47ba-8110-b6bd64dcd4cf) |
 
 코드리뷰 | 트러블 슈팅 |
 --- | --- |
