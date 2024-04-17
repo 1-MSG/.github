@@ -55,7 +55,7 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 상품별 좋아요 | 옵션선택 후 장바구니 담기 |
 
 **5. 관리자 상품 판매량/사용자 관리**
-![어드민1](https://github.com/1-MSG/.github/assets/122415843/00e8e3f1-af43-4806-aa00-3401c6056405) | ![어드민2](https://github.com/1-MSG/.github/assets/122415843/5d45335f-407f-4c08-a4ad-71b7f8dbcbaf) |
+![어드민1](https://github.com/1-MSG/.github/assets/122415843/00e8e3f1-af43-4806-aa00-3401c6056405) | ![admin 검색탭](https://github.com/1-MSG/.github/assets/122415843/14fbddb2-d5ca-4f64-a37f-ca20cbcefb6e) |
 --- | --- |
 전체 매출 관리/응답속도 탭| 상품 데이터 관리 탭|
 
