@@ -201,7 +201,8 @@ SSG 쇼핑몰 사이트의 **주요 기능과 인터페이스를 재현**한 클
 | BackEnd| BackEnd| BackEnd|
 |ksu9801@gmail.com  |tjwn1408@naver.com  |chojunho9803@gmail.com  |
 | [@KangBaekGwa](https://github.com/KangBaekGwa)| [@I-HYEON](https://github.com/I-HYEON) | [@khanturtle](https://github.com/khanturtle)  |
-소감 및 후기 | 소감 및 후기 | 소감 및 후기 |
+소감 및 후기 | 소감 및 후기 | 클론 코딩 프로젝트를 시작했을 때는 그리 어렵지 않을 것으로 생각했지만, DB 구조부터 API 명세서 작성까지 진행하며 예상보다 복잡한 작업들이 많았습니다. 이러한 과정을 통해 E-Commerce 사이트의 구조를 깊이 이해할 수 있었고, 효율적인 설계에 대한 고민을 할 수 있었습니다.
+팀 내 협업 측면에서는 대다수의 팀원이 팀프로젝트 경험이 있어서 각자의 경험을 바탕으로 다양한 방법을 시도할 수 있었습니다. 특히 이슈와 PR 템플릿을 활용하면서 개발 진행 상황을 쉽게 파악할 수 있었고, 적극적인 코드 리뷰를 통해 코드의 통일성을 유지할 수 있었습니다. 무엇보다 뛰어난 팀원들 덕분에 다양한 영역에서 많이 배울 수 있었던 것이 가장 큰 보람이었습니다. 감사합니다! |
 
 |    <img src="https://avatars.githubusercontent.com/u/87313979?v=4" width="40" />    |   <img src="https://avatars.githubusercontent.com/u/67429918?v=4" width="40" />   |   <img src="https://avatars.githubusercontent.com/u/53307093?v=4" width="40" />    |
 | :----: | :----: | :----: |
