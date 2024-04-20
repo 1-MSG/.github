@@ -1,4 +1,4 @@
-# SSG 클론코딩 - 스파로스4기 MSG조
+# MSG(My Special Guide) - eCommerce 및 어드민 페이지 
 <br>
 <p align="center"><img src="https://github.com/1-MSG/.github/assets/122415843/e90b8ec9-37dc-4cc9-8a30-1324ee67b7a7" width="200"></p>
 <br>
